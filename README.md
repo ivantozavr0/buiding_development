@@ -9,6 +9,8 @@
 
 ## Brief information
 
+File "sample.geojson" is an example file that is used in the notebook in this repository.
+
 This program expects an input file in *.geojson format. The following must be specified inside the file: the zone allowed for construction, prohibited zones ('restriction': 'no_build') and roads.
 
 During the course of the program, you will also need to manually enter various building parameters.
